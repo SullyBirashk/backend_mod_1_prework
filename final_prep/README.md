@@ -32,24 +32,24 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- `Add Week 1 Screenshot Here`
-- `Add Week 2 Screenshot Here`
-- `Add Week 3 Screenshot Here`
+- <img width="1393" alt="Mod 1 Week 1 Screenshot" src="https://user-images.githubusercontent.com/93055633/141656232-01462d0e-4073-48b7-bb9a-b7d94e9be574.png">
+- <img width="1391" alt="Mod 1 Week 2 Screenshot" src="https://user-images.githubusercontent.com/93055633/141656237-5bbfa8c5-7b82-4e0f-a01c-c4a68c416cba.png">
+- <img width="1392" alt="Mod 1 Week 3 Screenshot" src="https://user-images.githubusercontent.com/93055633/141656240-71e1afb3-a24e-4852-98a9-d5f3043f011f.png">
 
 ### Mentorship Prep
 Mentorship is an integral part of the Turing experience and will help jumpstart your technical career. In order to get your mentor relationship started on the right foot, please complete the following deliverables:
 - [ ] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
-  - [ ] Add link to your gist here: 
+  - [Add link to your gist here:](https://gist.github.com/SullyBirashk/3bc87a51189e1e2ae6fc6270fc0dd0b4)
 
 ### Lesson Prep
 You've learned a lot about how to take strong notes during Mod 0. Show us your skills while you learn how to pre-teach content for your first lesson in Mod 1!
 - [ ] Complete the [Pre Teaching Practice exercise](https://gist.github.com/ericweissman/0036e8fe272c02bd6d4bb14f42fd2f79) gist
-  - [ ] Add a link to your gist here:
+  - [Add a link to your gist here:](https://gist.github.com/SullyBirashk/a977532978edf59351de975e7ee4ae5f)
 
 ### Group Work Prep
 As part of Turing's project-based learning approach, you will often be working in pairs or larger groups. In order to set yourself (and your team) up for success, it is important to ensure you are prepared to be an equitable contributor and teammate.
 - [ ] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
-  - [ ] Add a link to your gist here: 
+  - [Add a link to your gist here:](https://gist.github.com/SullyBirashk/28f4e3665c3cca999235a38ab8b9788a)
 
 ## All Done? How to Submit your M1 Prework
 When you have completed *all* the activities described above, follow the steps below to submit your technical prework.
