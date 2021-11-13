@@ -9,12 +9,12 @@ def subtract(a, b)
 end
 
 def multiply(a, b)
-  puts "MULTIPLYING #{a} * #{b}"
+  puts "Multiplying #{a} * #{b}"
   return a * b
 end
 
 def divide(a, b)
-  puts "DIVIDING #{a} / #{b}"
+  puts "Dividing #{a} / #{b}"
   return a / b
 end
 

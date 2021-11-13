@@ -15,12 +15,12 @@ class Burrito
   end
 
   def add_topping(choice)
-    @toppings =+ choice
+    @toppings << choice
     puts "Good choice! #{choice} tastes great on a burrito"
   end
 
   def remove_topping(choice)
-    @toppings =- (choice)
+    @toppings.delete (choice)
     puts "It's all good! I'll remove the #{choice} for you!"
   end
 
